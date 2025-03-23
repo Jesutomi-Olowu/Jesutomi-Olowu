@@ -3,8 +3,22 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Here’s a brief introduction you can use for your GitHub profile:  
 
+---
+
+### 👋 Hi, I’m Jesutomi Olowu!  
+I’m a Computer Science graduate transitioning into **cybersecurity** with a passion for threat analysis, network security, and ethical hacking. Currently, I’m taking the **IBM Cybersecurity Analyst** course to strengthen my skills.  
+
+🔹 Exploring entry-level cybersecurity opportunities  
+🔹 Learning **network security, SOC analysis, and vulnerability assessment**  
+🔹 Building projects and expanding my GitHub portfolio  
+
+Let’s connect! 🚀  
+
+---
+
+Would you like to add links to your LinkedIn or other profiles?
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
