@@ -20,51 +20,52 @@ Would you like to add links to your LinkedIn or other profiles?
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+Cybersecurity Concepts: Vulnerabilities, Patch Management, Endpoint Security
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+Technical Skills: System Troubleshooting, Network Configuration, Software Installation
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+Soft Skills: Team Collaboration, Training Delivery, Documentation, Problem-Solving
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+🛠️ Tools & Platforms
+Google Workspace
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+Windows OS
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+Microsoft Office
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+Wi-Fi Setup
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+Basic CLI (Command Line Interface)
+
+Kali Linux
+
+Wireshark
+
+tcpdump
+
+📚 Associated Projects
+🔹 Network Traffic Analysis with Wireshark
+Captured and analyzed network packets on Kali Linux.
+
+Identified TCP 3-way handshake (SYN, SYN-ACK, ACK) and HTTP GET requests.
+
+Strengthened packet inspection skills and understanding of TCP/IP protocols.
+
+🔹 Basic Traffic Capture with tcpdump
+Used tcpdump CLI tool to capture and filter network traffic.
+
+Analyzed HTTP requests and TCP handshake packets directly from the Linux terminal.
+
+Improved command-line-based packet capturing and analysis techniques.
+
+🔹 Technical Support Specialist | Rohi Primary School
+Resolved 95% of IT incidents for over 500 users within 24 hours.
+
+Installed and secured 50+ endpoint devices, applying security best practices.
+
+Performed regular system upgrades and patching to protect systems.
+
+Conducted staff training on secure use of Google Classroom and other digital platforms.
+
+Collaborated with vendors to deploy a secure Wi-Fi network with 30% improved performance.
+
