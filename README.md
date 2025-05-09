@@ -74,7 +74,7 @@ Welcome to my GitHub profile! I'm a passionate cybersecurity analyst with a Dipl
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jesutomi-Olowu&show_icons=true&theme=radical)
 
 ---
 
